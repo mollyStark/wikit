@@ -1,0 +1,9 @@
+**************************README********************************
+This file is a simple explanation of wikit.
+Wikit is aimed to find the wiki page according to the image the 
+user uploaded with the approach of CBIR(content-based image 
+retrieval).
+It requires cola(github.) to scrach the wiki commons images
+ and reference to fire().
+
+
